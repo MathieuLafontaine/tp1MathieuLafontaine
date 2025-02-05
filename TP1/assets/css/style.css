@@ -6,7 +6,12 @@ header {
     background-color: aliceblue;
 }
 
+main > div > p > a {
+    text-decoration: none;
+}
+
 main > div > p > a:hover {
     color: tomato;
     font-size: x-large;
 }
+
