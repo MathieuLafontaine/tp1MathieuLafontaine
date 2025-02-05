@@ -5,3 +5,8 @@ body {
 header {
     background-color: aliceblue;
 }
+
+main > div > p > a:hover {
+    color: tomato;
+    font-size: x-large;
+}
