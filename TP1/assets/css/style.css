@@ -23,3 +23,7 @@ nav ul {
   list-style: none;
   font-family: "Times new roman";
 }
+
+nav li {
+  display: flex;
+}
