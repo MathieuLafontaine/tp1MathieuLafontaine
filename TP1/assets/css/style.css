@@ -1,17 +1,20 @@
 body {
-    background-color: pink;
-    text-decoration: underline;
+  background-color: pink;
+  text-decoration: underline;
 }
 header {
-    background-color: aliceblue;
+  background-color: aliceblue;
 }
 
 main > div > p > a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 main > div > p > a:hover {
-    color: tomato;
-    font-size: x-large;
+  color: tomato;
+  font-size: x-large;
 }
 
+footer {
+  background-color: fuchsia;
+}
