@@ -18,3 +18,8 @@ main > div > p > a:hover {
 footer {
   background-color: fuchsia;
 }
+
+nav ul {
+    list-style: none;
+    font font-family: "Times new roman";
+}
